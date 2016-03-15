@@ -1,0 +1,17 @@
+{
+  "company": "VertMarkets",
+  "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
+  "webSiteUrl": "http://www.vertmarkets.com/",
+  "address": "101 Gibraltar Road, Suite 100, Horsham, PA 19044",
+  "geo": {
+    "latitude": 40.170056,
+    "longitude": -75.13106
+  },
+  "positions": [
+    {
+      "title": "Mid or Senior Full Stack Developer",
+      "datePosted": "2016-02-26",
+      "skills": "mongodb, elasticsearch, angularjs, javascript, asp.net-mvc"
+    }
+  ]
+}

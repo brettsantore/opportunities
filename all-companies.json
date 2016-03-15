@@ -157,6 +157,21 @@
     ]
   },
   {
+    "company": "Alura Business Solutions",
+    "url": "http://www.alura.com/about.php",
+    "webSiteUrl": "http://www.alura.com/",
+    "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
+    "geo": {
+      "latitude": 40.129261,
+      "longitude": -75.297043
+    },
+    "positions": [
+      {
+        "title": "Network Administrator"
+      }
+    ]
+  },
+  {
     "company": "AppNexus Inc",
     "url": "http://www.appnexus.com/en/company/careers/open-roles",
     "webSiteUrl": "http://www.appnexus.com/",
@@ -238,6 +253,33 @@
     ]
   },
   {
+    "company": "Archer Group",
+    "url": "http://www.archer-group.com/careers.html",
+    "webSiteUrl": "http://www.archer-group.com/",
+    "address": "233 N King St, Wilmington, DE 19801",
+    "geo": {
+      "latitude": 39.739341,
+      "longitude": -75.551174
+    },
+    "positions": [
+      {
+        "title": "Application Developer"
+      },
+      {
+        "title": "Senior Application Developer"
+      },
+      {
+        "title": "Senior Sitecore Developer"
+      },
+      {
+        "title": "UX Openings"
+      },
+      {
+        "title": "Mid-Level UX Designer"
+      }
+    ]
+  },
+  {
     "company": "Arcisphere Technologies",
     "type": [],
     "url": "http://arcisphere.com/careers/",
@@ -276,6 +318,60 @@
       },
       {
         "title": "Software Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "Arora Engineers, Inc.",
+    "url": "http://www.aroraengineers.com/careers.asp",
+    "webSiteUrl": "http://www.aroraengineers.com/",
+    "address": "1601 Walnut Street, Suite 512, Philadelphia, PA 19102",
+    "geo": {
+      "latitude": 39.950012,
+      "longitude": -75.167689
+    },
+    "positions": [
+      {
+        "title": "Mechanical Engineers"
+      },
+      {
+        "title": "Electrical Engineers"
+      },
+      {
+        "title": "Special Systems/Telecommunications Specialists"
+      },
+      {
+        "title": "Fire Protection/Life Safety Engineers"
+      },
+      {
+        "title": "Project Managers"
+      },
+      {
+        "title": "Facilities Maintenance Technicians"
+      },
+      {
+        "title": "Construction Managers"
+      },
+      {
+        "title": "CAD Designers/Operators"
+      }
+    ]
+  },
+  {
+    "company": "Aspect Consulting",
+    "url": "http://www.aspect-consulting.com/careers.aspx",
+    "webSiteUrl": "http://www.aspect-consulting.com/",
+    "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
+    "geo": {
+      "latitude": 40.105065,
+      "longitude": -75.412618
+    },
+    "positions": [
+      {
+        "title": "Programmer Analyst/.NET Developer"
+      },
+      {
+        "title": "System Administrator, SME"
       }
     ]
   },
@@ -326,16 +422,47 @@
     },
     "positions": [
       {
-        "title": "Operations Engineer"
+        "title": "Community Ambassador",
+        "datePosted": "2016-02-16"
       },
       {
-        "title": "Software Engineer - Civic Apps Team"
+        "title": "Operations Engineer",
+        "datePosted": "2016-02-16"
       },
       {
-        "title": "Software Engineer - Geospatial Insights Team"
+        "title": "Project Manager - Data Analytics",
+        "datePosted": "2016-02-16"
       },
       {
-        "title": "Software Engineer - GeoTrellis Team"
+        "title": "Software Engineer - Civic Apps Team",
+        "datePosted": "2016-02-16"
+      },
+      {
+        "title": "Software Engineer - Geospatial Insights Team",
+        "datePosted": "2016-02-16"
+      },
+      {
+        "title": "Software Engineer - GeoTrellis Team",
+        "datePosted": "2016-02-16"
+      },
+      {
+        "title": "UI/UX Designer",
+        "datePosted": "2016-02-16"
+      }
+    ]
+  },
+  {
+    "company": "B Lab",
+    "url": "http://slackatwork.com/company/B+Lab/",
+    "webSiteUrl": "http://www.bcorporation.net/",
+    "address": "155 East Lancaster Avenue, 2nd Floor, Wayne, PA 19087",
+    "geo": {
+      "latitude": 40.043971,
+      "longitude": -75.385869
+    },
+    "positions": [
+      {
+        "title": "Jr. Web Application Developer"
       }
     ]
   },
@@ -370,6 +497,24 @@
     ]
   },
   {
+    "company": "BioBots",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/biobots/jobs",
+    "webSiteUrl": "https://www.biobots.io/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
     "company": "Biomeme, Inc.",
     "url": "http://www.biomeme.com/careers",
     "webSiteUrl": "http://www.biomeme.com/",
@@ -379,6 +524,24 @@
       "longitude": -75.1767853469
     },
     "positions": []
+  },
+  {
+    "company": "Blackfynn",
+    "url": "http://www.blackfynn.com/careers/",
+    "webSiteUrl": "http://www.blackfynn.com/",
+    "address": "123 N 3rd St 2nd Floor Philadelphia, PA 19106",
+    "geo": {
+      "latitude": 39.952821,
+      "longitude": -75.145047
+    },
+    "positions": [
+      {
+        "title": "Full Stack Engineer"
+      },
+      {
+        "title": "Front-end Developer"
+      }
+    ]
   },
   {
     "company": "Bluecadet",
@@ -395,6 +558,24 @@
       },
       {
         "title": "Senior Interactive Designer"
+      }
+    ]
+  },
+  {
+    "company": "BOLT ON TECHNOLOGY",
+    "url": "http://boltontechnology.com/category/careers/",
+    "webSiteUrl": "http://www.boltontechnology.com/",
+    "address": "1105 Industrial Blvd., Southampton, PA 18966-4160",
+    "geo": {
+      "latitude": 40.16228,
+      "longitude": -75.040384
+    },
+    "positions": [
+      {
+        "title": "Customer Support Technician"
+      },
+      {
+        "title": "Microsoft Software Developer"
       }
     ]
   },
@@ -419,6 +600,27 @@
       },
       {
         "title": "Software QA Staff Engineer"
+      }
+    ]
+  },
+  {
+    "company": "Braxton Science & Technology Group",
+    "url": "http://bstg.hirecentric.com/jobs/",
+    "webSiteUrl": "http://bstgllc.com/",
+    "address": "Moorestown, NJ",
+    "geo": {
+      "latitude": 39.968882,
+      "longitude": -74.948886
+    },
+    "positions": [
+      {
+        "title": "Jr. Software Engineer - BMD"
+      },
+      {
+        "title": "Mid Software Engineer - BMD"
+      },
+      {
+        "title": "Sr. Software Engineer - BMD"
       }
     ]
   },
@@ -456,6 +658,48 @@
     ]
   },
   {
+    "company": "Brian Communications",
+    "url": "http://www.briancom.com/careers",
+    "webSiteUrl": "http://www.briancom.com/",
+    "address": "200 Four Falls Corporate Center, Suite 100, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.066641,
+      "longitude": -75.306219
+    },
+    "positions": [
+      {
+        "title": "Digital Project Manager"
+      },
+      {
+        "title": "Frontend Developer"
+      },
+      {
+        "title": "Director of Web Development"
+      },
+      {
+        "title": "Summer 2016 Intern- Strategy and Business Development"
+      },
+      {
+        "title": "Summer 2016 Creative Intern"
+      },
+      {
+        "title": "Summer 2016 Intern- Project Management"
+      },
+      {
+        "title": "Summer 2016 Intern- Integrated Marketing"
+      },
+      {
+        "title": "Summer 2016 Intern- Analytics"
+      },
+      {
+        "title": "Summer 2016 Public Relations Intern"
+      },
+      {
+        "title": "Creative Director"
+      }
+    ]
+  },
+  {
     "company": "BrickSimple LLC",
     "url": "http://bricksimple.com/",
     "webSiteUrl": "http://bricksimple.com/",
@@ -474,9 +718,24 @@
     ]
   },
   {
+    "company": "Brio Solutions",
+    "url": "http://www.briosolutions.com/About/Careers.aspx",
+    "webSiteUrl": "http://www.briosolutions.com/",
+    "address": "455 Pennsylvania Avenue, Suite 136, Fort Washington, PA 19034",
+    "geo": {
+      "latitude": 40.135976,
+      "longitude": -75.20793
+    },
+    "positions": [
+      {
+        "title": ".NET Software Developers (All Levels)"
+      }
+    ]
+  },
+  {
     "company": "Brolik",
     "url": "http://brolik.com/careers",
-    "webSiteUrl": "http://brolik.com",
+    "webSiteUrl": "http://brolik.com/",
     "address": "421 N. 7th St., Suite 701, Philadelphia PA 19123",
     "geo": {
       "latitude": 39.9591977619,
@@ -496,6 +755,21 @@
     "positions": [
       {
         "title": "Production Artist"
+      }
+    ]
+  },
+  {
+    "company": "BTB Security",
+    "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
+    "webSiteUrl": "http://www.btbsecurity.com/",
+    "address": "3 Bala Plaza, Suite 701, Bala Cynwyd, PA 19004",
+    "geo": {
+      "latitude": 40.009488,
+      "longitude": -75.218509
+    },
+    "positions": [
+      {
+        "title": "RADAR Analyst"
       }
     ]
   },
@@ -560,6 +834,17 @@
     ]
   },
   {
+    "company": "Cerner",
+    "url": "http://cerner.com/About_Cerner/Careers/",
+    "webSiteUrl": "http://cerner.com/",
+    "address": "51 Valley Stream Parkway, Malvern, PA 19355-1406",
+    "geo": {
+      "latitude": 40.060103,
+      "longitude": -75.522087
+    },
+    "positions": []
+  },
+  {
     "company": "Chariot Solutions",
     "url": "http://chariotsolutions.com/who-we-are/careers/",
     "webSiteUrl": "http://chariotsolutions.com/",
@@ -607,6 +892,24 @@
     "positions": []
   },
   {
+    "company": "Clinical Ink",
+    "url": "https://careers.smartrecruiters.com/ClinicalInk",
+    "webSiteUrl": "http://www.clinicalink.com/",
+    "address": "110 Gibraltar Road, Suite 150, Horsham, PA 19044",
+    "geo": {
+      "latitude": 40.171473,
+      "longitude": -75.130956
+    },
+    "positions": [
+      {
+        "title": ".Net Senior Engineer"
+      },
+      {
+        "title": ".NET/SQL Developer"
+      }
+    ]
+  },
+  {
     "company": "Cloudamize",
     "url": "http://www.cloudamize.com/careers/",
     "webSiteUrl": "http://www.cloudamize.com/",
@@ -640,6 +943,9 @@
   },
   {
     "company": "Club OS",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/club-os/jobs",
     "webSiteUrl": "https://www.club-os.com/",
     "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
@@ -695,6 +1001,93 @@
       },
       {
         "title": "Full Stack Engineer"
+      }
+    ]
+  },
+  {
+    "company": "Compliance Implementation Services",
+    "url": "http://www.cisbydeloitte.com/careers/",
+    "webSiteUrl": "http://www.cis-partners.com/",
+    "address": "3809 West Chester Pike, Suite 100, Newtown Square, PA 19073",
+    "geo": {
+      "latitude": 39.99049,
+      "longitude": -75.411689
+    },
+    "positions": [
+      {
+        "title": "BI Analytics and Visualization Specialist"
+      },
+      {
+        "title": "Client Account Manager - Life Sciences"
+      },
+      {
+        "title": "Data Software Engineer"
+      },
+      {
+        "title": "Senior Software Engineer"
+      },
+      {
+        "title": "Senior Software Engineer"
+      },
+      {
+        "title": "Quality Assurance Manager"
+      },
+      {
+        "title": "Manager Government Pricing and Contracts"
+      },
+      {
+        "title": "Security & Information Assurance Manager"
+      },
+      {
+        "title": "Business Analyst - Life Sciences"
+      },
+      {
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "title": "Software Engineer"
+      },
+      {
+        "title": "Software Engineer"
+      },
+      {
+        "title": "Sr. IT System Administrator"
+      }
+    ]
+  },
+  {
+    "company": "Conigent",
+    "url": "http://www.conigent.com/contact/#openings-list",
+    "webSiteUrl": "http://www.conigent.com/",
+    "address": "226 Haddonfield Road, Suite 300, Cherry Hill, NJ 08002",
+    "geo": {
+      "latitude": 39.952584,
+      "longitude": -75.165222
+    },
+    "positions": [
+      {
+        "title": "Infor M3 Project Manager"
+      },
+      {
+        "title": "Infor M3 Functional Consultant - Procurement Warehousing & Logistics"
+      },
+      {
+        "title": "Infor M3 Functional Consultant - Financial Management Implementation"
+      },
+      {
+        "title": "Infor M3 Technical Consultant - Integration (MEC/ION/EDI)"
+      },
+      {
+        "title": "Infor M3 Technical Consultant - Development (Java/MAK/Mashups/Smart Office SDK)"
+      },
+      {
+        "title": "Infor M3 Functional Consultant - Equipment Service Management & Rental"
+      },
+      {
+        "title": "Infor M3 Functional Consultant - Customer Sales Management"
+      },
+      {
+        "title": "M3 Functional Consultant - Planning & Manufacturing Operations"
       }
     ]
   },
@@ -908,6 +1301,22 @@
     ]
   },
   {
+    "company": "Diagnostic Driving, LLC",
+    "url": "http://www.diagnosticdriving.com/careers/",
+    "webSiteUrl": "http://www.diagnosticdriving.com/",
+    "address": "3401 Market Street, 2nd Floor, Philadelphia, PA 19104",
+    "geo": {
+      "latitude": 39.956175,
+      "longitude": -75.191729
+    },
+    "positions": [
+      {
+        "title": "Game Developer",
+        "datePosted": "2016-02-11"
+      }
+    ]
+  },
+  {
     "company": "DramaFever",
     "url": "http://www.dramafever.com/company/careers.html",
     "webSiteUrl": "http://www.dramafever.com/",
@@ -967,6 +1376,24 @@
       },
       {
         "title": "DEVELOPER"
+      }
+    ]
+  },
+  {
+    "company": "eCity Interactive",
+    "url": "http://ecityinteractive.com/us/careers/",
+    "webSiteUrl": "http://ecityinteractive.com/",
+    "address": "136 S 15th St, Philadelphia, PA 19102",
+    "geo": {
+      "latitude": 39.949955,
+      "longitude": -75.165874
+    },
+    "positions": [
+      {
+        "title": "Senior Developer w/Sys Ops Experience"
+      },
+      {
+        "title": "Junior Interactive Designer"
       }
     ]
   },
@@ -1067,6 +1494,25 @@
     ]
   },
   {
+    "_comment": "Seems to be EPAM Systems now. Already have a file for them.",
+    "company": "Empathy Lab",
+    "url": "http://www.epam.com/careers",
+    "webSiteUrl": "http://empathylab.epam.com/",
+    "address": "101 East 8th Ave, Suite 201, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.079039,
+      "longitude": -75.299617
+    },
+    "positions": [
+      {
+        "title": "Creative Director"
+      },
+      {
+        "title": "Senior UX Designer"
+      }
+    ]
+  },
+  {
     "company": "EPAM",
     "url": "http://www.epam.com/careers",
     "webSiteUrl": "http://www.epam.com/",
@@ -1145,6 +1591,39 @@
     ]
   },
   {
+    "company": "Famehouse",
+    "url": "http://famehouse.net/category/job-listings/",
+    "webSiteUrl": "http://famehouse.net/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "FRONT-END DEVELOPER"
+      }
+    ]
+  },
+  {
+    "company": "FastFig",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/fastfig/jobs",
+    "webSiteUrl": "https://www.fastfig.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Front End Developer"
+      }
+    ]
+  },
+  {
     "company": "Fynydd",
     "url": "https://fynydd.com/careers/",
     "webSiteUrl": "https://fynydd.com/",
@@ -1205,6 +1684,26 @@
     ]
   },
   {
+    "company": "GLOBO",
+    "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepCareers.aspx",
+    "webSiteUrl": "http://www.helloglobo.com/",
+    "address": "500 W Office Center Drive, Fort Washington, PA 19034",
+    "geo": {
+      "latitude": 40.141835,
+      "longitude": -75.173581
+    },
+    "positions": [
+      {
+        "title": "Quantitative Data Analyst",
+        "datePosted": "2016-02-17"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "datePosted": "2016-02-01"
+      }
+    ]
+  },
+  {
     "company": "GoEmerchant",
     "type": [],
     "url": "http://www.goemerchant.com/careers.aspx",
@@ -1253,6 +1752,24 @@
     ]
   },
   {
+    "company": "Greenlane Search Marketing, LLC",
+    "url": "http://www.greenlaneseo.com/jobs/",
+    "webSiteUrl": "http://www.greenlaneseo.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 39.952584,
+      "longitude": -75.165222
+    },
+    "positions": [
+      {
+        "title": "Graphic / Web Designer"
+      },
+      {
+        "title": "Web Analyst"
+      }
+    ]
+  },
+  {
     "company": "Guru",
     "url": "https://www.getguru.com/jobs/",
     "webSiteUrl": "https://www.getguru.com/",
@@ -1262,6 +1779,24 @@
       "longitude": -75.1446795469
     },
     "positions": []
+  },
+  {
+    "company": "Halfpenny Technologies",
+    "url": "http://www.halfpenny.com/careers.html",
+    "webSiteUrl": "http://www.halfpenny.com/",
+    "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+    "geo": {
+      "latitude": 40.152771,
+      "longitude": -75.283326
+    },
+    "positions": [
+      {
+        "title": "Integration Developer"
+      },
+      {
+        "title": "Quality Assurance (QA) Analyst"
+      }
+    ]
   },
   {
     "company": "Happy Cog",
@@ -1280,6 +1815,30 @@
       {
         "title": "Senior Designer",
         "datePosted": "2016-01-05"
+      }
+    ]
+  },
+  {
+    "company": "HealthVerity",
+    "url": "http://healthverity.com/careers-2",
+    "webSiteUrl": "http://healthverity.com/",
+    "address": "100 North 20th Street, Suite 203, Philadelphia, PA  19103",
+    "geo": {
+      "latitude": 39.95591,
+      "longitude": -75.17309
+    },
+    "positions": [
+      {
+        "title": "GIS Developer"
+      },
+      {
+        "title": "Back End Software Developer"
+      },
+      {
+        "title": "Front End Software Developer"
+      },
+      {
+        "title": "Operations Engineer / DevOps"
       }
     ]
   },
@@ -1321,6 +1880,27 @@
     ]
   },
   {
+    "company": "Inspire Energy",
+    "url": "http://www.inspireenergy.com/join-our-team#powers",
+    "webSiteUrl": "http://www.inspireenergy.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 39.952584,
+      "longitude": -75.165222
+    },
+    "positions": [
+      {
+        "title": "Backend Developer - VC Backed Startup"
+      },
+      {
+        "title": "Full Stack Developer - VC Backed Startup"
+      },
+      {
+        "title": "Web Developer - VC Backed Startup"
+      }
+    ]
+  },
+  {
     "company": "InstaMed",
     "url": "http://www.instamed.com/about/careers/",
     "webSiteUrl": "http://www.instamed.com/",
@@ -1342,6 +1922,21 @@
     ]
   },
   {
+    "company": "IntegriChain",
+    "url": "http://www.integrichain.com/about-us/careers/",
+    "webSiteUrl": "http://www.integrichain.com/",
+    "address": "1628 JFK Boulevard, Suite 300, Philadelphia, PA 19103",
+    "geo": {
+      "latitude": 39.953705,
+      "longitude": -75.167953
+    },
+    "positions": [
+      {
+        "title": "Senior Test Engineer"
+      }
+    ]
+  },
+  {
     "company": "InterNACHI",
     "url": "https://internachi.recruitee.com/",
     "webSiteUrl": "https://www.nachi.org/",
@@ -1353,6 +1948,25 @@
     "positions": [
       {
         "title": "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)"
+      }
+    ]
+  },
+  {
+    "company": "IntroNet",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/intronet/jobs",
+    "webSiteUrl": "https://secure.intro.net/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Chief Technical Officer",
+        "datePosted": "2016-03-08"
       }
     ]
   },
@@ -1393,6 +2007,206 @@
     ]
   },
   {
+    "company": "iPipeline",
+    "url": "https://ipipeline-orspartners.icims.com/jobs/intro?hashed=-435738742&mobile=false&width=889&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+    "webSiteUrl": "http://www.ipipeline.com/",
+    "address": "222 Valley Creek Boulevard, Suite 300, Exton, PA 19341",
+    "geo": {
+      "latitude": 40.03875,
+      "longitude": -75.597482
+    },
+    "positions": [
+      {
+        "title": "Application Support Engineer"
+      },
+      {
+        "title": "Actuarial Developer"
+      },
+      {
+        "title": "Application Developer"
+      },
+      {
+        "title": "Application Support Analyst"
+      }
+    ]
+  },
+  {
+    "company": "IT Pros - Philadelphia",
+    "url": "http://www.itprosphilly.com/careers/",
+    "webSiteUrl": "http://www.itprosphilly.com/",
+    "address": "1 Brown Street, #1604, Philadelphia, PA 19123",
+    "geo": {
+      "latitude": 39.962402,
+      "longitude": -75.13767
+    },
+    "positions": [
+      {
+        "title": ".NET Developer"
+      }
+    ]
+  },
+  {
+    "company": "J2 Solutions",
+    "url": "http://www.j2-solutions.com/career.aspx",
+    "webSiteUrl": "http://www.j2-solutions.com/",
+    "address": "660 American Avenue, Suite 104, King of Prussia, PA 19406",
+    "geo": {
+      "latitude": 40.094423,
+      "longitude": -75.394149
+    },
+    "positions": [
+      {
+        "title": "Application Developers - .NET"
+      },
+      {
+        "title": "Application Developers - Java"
+      }
+    ]
+  },
+  {
+    "company": "Jefferson",
+    "url": "http://www.jefferson.edu/human-resources/careers.html",
+    "webSiteUrl": "http://www.jefferson.edu/",
+    "address": "1025 Walnut Street, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.948784,
+      "longitude": -75.158186
+    },
+    "positions": [
+      {
+        "title": "Application Development Specialist - IS&T - V69 - 9207191"
+      },
+      {
+        "title": "Multimedia Instructional Designer - IS&T - V67 - 9207192"
+      },
+      {
+        "title": "Data Scientist - IS&T - V70 - 9207105"
+      },
+      {
+        "title": "Security Analyst II - IS&T - V67 - 9207104"
+      },
+      {
+        "title": "Senior Voice Communications Technician - V66 - 9207102"
+      },
+      {
+        "title": "Lead Client Solutions Analyst - 9205587"
+      },
+      {
+        "title": "Windows System Administrator - V68 - 9206962"
+      },
+      {
+        "title": "Domain Architect - 9205737"
+      },
+      {
+        "title": "Security Analyst II - IS&T - 9204646"
+      },
+      {
+        "title": "Application Development Specialist - IS&T - 9205225"
+      },
+      {
+        "title": "Oracle Database Administrator - 9204645"
+      },
+      {
+        "title": "Sr. Storage Administrator - 9204643"
+      },
+      {
+        "title": "End-Point System Administrator (V67) - 9206277"
+      },
+      {
+        "title": "Virtualization Administrator (V68) - IS&T - 9206155"
+      },
+      {
+        "title": "IT Infrastructure Project Manager (V70) - 9206157"
+      },
+      {
+        "title": "Senior Apple Systems Administrator (V68) - 9206161"
+      },
+      {
+        "title": "Web Developer - 9206162"
+      },
+      {
+        "title": "Director of IS&T Security & Enterprise Security Officer - 9205586"
+      }
+    ]
+  },
+  {
+    "company": "Kepler Group",
+    "url": "http://www.keplergrp.com/careers/",
+    "webSiteUrl": "http://www.keplergrp.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 39.952584,
+      "longitude": -75.165222
+    },
+    "positions": []
+  },
+  {
+    "company": "KickUp",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/kickup-1/jobs",
+    "webSiteUrl": "http://kickup.co/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Data visualization intern"
+      },
+      {
+        "title": "Front-end engineer"
+      },
+      {
+        "title": "Full-stack developer"
+      }
+    ]
+  },
+  {
+    "company": "KPInterface, Inc.",
+    "url": "http://www.kpinterface.com/careers.html",
+    "webSiteUrl": "http://www.kpinterface.com/",
+    "address": "477 N. Lewis Road, Suite 210, Limerick, PA 19468",
+    "geo": {
+      "latitude": 40.209139,
+      "longitude": -75.544583
+    },
+    "positions": [
+      {
+        "title": "IT Consultant – Mid-Level"
+      },
+      {
+        "title": "IT Consultant – Junior Level"
+      },
+      {
+        "title": "Computer Tech Support Internship"
+      }
+    ]
+  },
+  {
+    "company": "Lamps.com Inc",
+    "url": "http://jobs.interactivecommercegroup.com/",
+    "webSiteUrl": "http://www.lamps.com/",
+    "address": "1217 Sansom St, Floor 8, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.949923,
+      "longitude": -75.161334
+    },
+    "positions": [
+      {
+        "title": "eCommerce Merchandiser"
+      },
+      {
+        "title": "Full Stack Magento Developer"
+      },
+      {
+        "title": "Product Data Specialist"
+      }
+    ]
+  },
+  {
     "company": "LeadiD",
     "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
     "webSiteUrl": "http://www.leadid.com/",
@@ -1425,6 +2239,24 @@
       },
       {
         "title": "Software Engineer (node.js, java, php, aws)"
+      }
+    ]
+  },
+  {
+    "company": "Lemma",
+    "url": "https://www.lem.ma/home/?page_id=70",
+    "webSiteUrl": "https://www.lem.ma/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Full stack Angular.js, Node.js developer"
+      },
+      {
+        "title": "UX Developer"
       }
     ]
   },
@@ -1495,6 +2327,48 @@
       "longitude": -75.1444120428
     },
     "positions": []
+  },
+  {
+    "company": "MaassMedia, LLC",
+    "url": "http://www.maassmedia.com/about-our-careers.php",
+    "webSiteUrl": "http://www.maassmedia.com/",
+    "address": "1880 JFK Blvd, Suite 201, Philadelphia, PA 19103",
+    "geo": {
+      "latitude": 39.954096,
+      "longitude": -75.171007
+    },
+    "positions": [
+      {
+        "title": "Analytics Solutions Engineer"
+      },
+      {
+        "title": "Consultant - Data Science/Reporting"
+      }
+    ]
+  },
+  {
+    "company": "Masterminds",
+    "url": "http://mastermindsagency.com/#gigs",
+    "webSiteUrl": "http://mastermindsagency.com/",
+    "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.9493152971,
+      "longitude": -75.1626386191
+    },
+    "positions": [
+      {
+        "title": "Social Media Community Manager"
+      },
+      {
+        "title": "Graphic Designer – Full time or Freelance"
+      },
+      {
+        "title": "Creative Internships"
+      },
+      {
+        "title": "Media Internship"
+      }
+    ]
   },
   {
     "company": "Medecision",
@@ -1733,6 +2607,39 @@
     ]
   },
   {
+    "company": "Moven",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/moven/jobs",
+    "webSiteUrl": "https://www.moven.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Full Stack Engineer"
+      },
+      {
+        "title": "Service Delivery Engineer"
+      },
+      {
+        "title": "Senior UX Designer"
+      },
+      {
+        "title": "Data Scientist"
+      },
+      {
+        "title": "Data Analyst"
+      },
+      {
+        "title": "Senior Mobile Engineer"
+      }
+    ]
+  },
+  {
     "company": "Municibid",
     "url": "https://municibid.com/jobs/",
     "webSiteUrl": "https://municibid.com/",
@@ -1742,6 +2649,24 @@
       "longitude": -75.115217
     },
     "positions": []
+  },
+  {
+    "company": "My Mobile ED",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/my-mobile-ed/jobs",
+    "webSiteUrl": "http://mymobileed.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Software Engineer"
+      }
+    ]
   },
   {
     "company": "Nasdaq OMX",
@@ -1799,6 +2724,24 @@
       },
       {
         "title": "Digital Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "New York Code + Design Academy",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/new-york-code-design-academy-1/jobs",
+    "webSiteUrl": "https://nycda.com/",
+    "address": "30 South 17th Street, Philadelphia, PA 19103",
+    "geo": {
+      "latitude": 39.952215,
+      "longitude": -75.169528
+    },
+    "positions": [
+      {
+        "title": "Web Development Instructor"
       }
     ]
   },
@@ -2101,27 +3044,6 @@
     ]
   },
   {
-    "company": "Picwell",
-    "url": "http://nerds.picwell.com/jobs/",
-    "webSiteUrl": "http://picwell.com/",
-    "address": "2200 Arch St Suite 101, Philadelphia PA 19103",
-    "geo": {
-      "latitude": 39.9558749,
-      "longitude": -75.1790956
-    },
-    "positions": [
-      {
-        "title": "Software Engineer"
-      },
-      {
-        "title": "Data Engineer"
-      },
-      {
-        "title": "Data Scientist"
-      }
-    ]
-  },
-  {
     "company": "PipelineDeals",
     "url": "https://www.pipelinedeals.com/careers",
     "webSiteUrl": "https://www.pipelinedeals.com/",
@@ -2180,6 +3102,23 @@
       },
       {
         "title": "Mid-level Java Engineer"
+      }
+    ]
+  },
+  {
+    "company": "Pobox",
+    "url": "https://www.pobox.com/jobs",
+    "webSiteUrl": "https://www.pobox.com/",
+    "address": "Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.955929,
+      "longitude": -75.157457
+    },
+    "positions": [
+      {
+        "title": "programmer",
+        "datePosted": "2016-03-13",
+        "skills": "Perl 5, Moose, Postfix, DBIx::Class, PostgreSQL, MySQL, Git, Rx Schema, SQLite, Australians, Cyrus, Moonpig, Joyent Triton (Solaris[h]), Chef"
       }
     ]
   },
@@ -2300,13 +3239,37 @@
     },
     "positions": [
       {
-        "title": "APP DEVELOPER"
+        "title": "COPYWRITER"
       },
       {
         "title": "ART DIRECTOR"
       },
       {
-        "title": "COPYWRITER"
+        "title": "APP DEVELOPER"
+      },
+      {
+        "title": "WEB DEV INTERN"
+      }
+    ]
+  },
+  {
+    "company": "RegDesk",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/regdesk/jobs",
+    "webSiteUrl": "http://www.regdesk.co/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Developer"
+      },
+      {
+        "title": "Front-End Intern"
       }
     ]
   },
@@ -2465,20 +3428,23 @@
     ]
   },
   {
-    "company": "RTO+P",
-    "url": "http://www.rtop.com/contact",
-    "webSiteUrl": "http://www.rtop.com/",
-    "address": "1 South Broad Street, 24th Floor, Philadelphia, PA 19107",
+    "company": "Saturn Infotech Inc",
+    "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+    "webSiteUrl": "http://www.saturninfotech.com/",
+    "address": "1120 Welsh Road, Suite 110, North Wales, Pennsylvania 19454",
     "geo": {
-      "latitude": 39.951741,
-      "longitude": -75.163514
+      "latitude": 40.227722,
+      "longitude": -75.261352
     },
     "positions": [
       {
-        "title": "RT DIRECTOR"
+        "title": "Entry Level Hyperion Developers"
       },
       {
-        "title": "APP DEVELOPER"
+        "title": "Junior C/C++ or MATLAB Developers"
+      },
+      {
+        "title": "Fresh Graduates - Systems Analyst / Programmer Analyst"
       }
     ]
   },
@@ -2641,22 +3607,177 @@
     ]
   },
   {
-    "company": "SunGuard Fiancial",
+    "company": "SunGuard Financial",
     "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
     "webSiteUrl": "https://www.sungard.com/",
-    "address": "",
+    "address": "601 Walnut St, Philadelphia, PA 19106",
+    "geo": {
+      "latitude": 39.94827,
+      "longitude": -75.151171
+    },
     "positions": [
-      {
-        "title": "Sr. Core Java developer"
-      },
       {
         "title": "Sr. Android developer"
       },
       {
-        "title": "Ruby on Rails Web Developer"
+        "title": "Sr. Java developer"
       },
       {
-        "title": "Project Manager (Collateral Management Software Implementation)"
+        "title": "Ruby on Rails Web Developer"
+      }
+    ]
+  },
+  {
+    "company": "Susquehanna International Group",
+    "url": "https://careers.sig.com/",
+    "webSiteUrl": "http://sig.com/",
+    "address": "401 City Avenue, Bala Cynwyd, PA 19004",
+    "geo": {
+      "latitude": 40.008582,
+      "longitude": -75.213322
+    },
+    "positions": [
+      {
+        "title": "Junior Technical Support Analyst"
+      },
+      {
+        "title": "QlikView Developer"
+      },
+      {
+        "title": "Software Engineering Internship Program"
+      },
+      {
+        "title": "Junior Systems Administrator (Data Center)"
+      },
+      {
+        "title": "Software Developer"
+      },
+      {
+        "title": "Software Developer - Middleware"
+      },
+      {
+        "title": "Business Analyst/Project Manager"
+      },
+      {
+        "title": "FPGA Engineer"
+      },
+      {
+        "title": "Technical Support Analyst"
+      },
+      {
+        "title": "Telecom Client Support Analyst"
+      },
+      {
+        "title": "Senior VMware Engineer"
+      },
+      {
+        "title": "Software Developer - Clearing and Positions"
+      },
+      {
+        "title": "Software Engineer - Production Engineering"
+      },
+      {
+        "title": "Software Developer - C++"
+      },
+      {
+        "title": "Messaging Engineer (Middleware)"
+      },
+      {
+        "title": "Linux Engineer"
+      },
+      {
+        "title": "Technical Support Analyst (Trading Floor)"
+      },
+      {
+        "title": "Technology Associate: Software Engineering Development Program"
+      },
+      {
+        "title": "Junior FPGA Engineer"
+      },
+      {
+        "title": "Software Developer- Operations"
+      },
+      {
+        "title": "Software Developer - SOT Services"
+      },
+      {
+        "title": "Technology Co-op"
+      },
+      {
+        "title": "Junior Technical Support Engineer"
+      },
+      {
+        "title": "Junior Telecom Client Support Analyst"
+      },
+      {
+        "title": "Systems & Network Administrator (Data Center)"
+      },
+      {
+        "title": "Technical Business Analyst"
+      },
+      {
+        "title": "Software Developer – Proprietary Trading Services"
+      },
+      {
+        "title": "Software Developer - Instruments Team"
+      },
+      {
+        "title": "Software Developer- TORQ"
+      },
+      {
+        "title": "Quantitative Developer - Backtesting and Research Computing "
+      }
+    ]
+  },
+  {
+    "company": "Swift Capital",
+    "url": "https://www.swiftcapital.com/Careers",
+    "webSiteUrl": "http://www.swiftcapital.com/",
+    "address": "501 Carr Rd #301, Wilmington, DE 19809",
+    "geo": {
+      "latitude": 39.776617,
+      "longitude": -75.513209
+    },
+    "positions": [
+      {
+        "title": "UX/UI Designer/Developer"
+      },
+      {
+        "title": "Software Quality Assurance (QA) Engineer"
+      },
+      {
+        "title": "Senior C#.Net Software Development Engineer "
+      }
+    ]
+  },
+  {
+    "company": "Syapse",
+    "url": "http://www.syapse.com/about/careers/",
+    "webSiteUrl": "http://www.syapse.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Customer Solutions Software Engineer"
+      }
+    ]
+  },
+  {
+    "company": "Tamman Technologies",
+    "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
+    "webSiteUrl": "http://www.tammantech.com/",
+    "address": "20 North 3rd Street, Suite 301, Philadelphia, PA 19106",
+    "geo": {
+      "latitude": 39.950812,
+      "longitude": -75.145607
+    },
+    "positions": [
+      {
+        "title": "Front-End & Full Stack Developers",
+        "datePosted": "2016-03-14"
       }
     ]
   },
@@ -2683,6 +3804,27 @@
     "positions": []
   },
   {
+    "company": "TherapyNotes",
+    "url": "https://www.pliner.com/careers/",
+    "webSiteUrl": "https://www.therapynotes.com/",
+    "address": "630 Fitzwatertown Rd, Suite A4, Willow Grove, PA, 19090",
+    "geo": {
+      "latitude": 40.157568,
+      "longitude": -75.120882
+    },
+    "positions": [
+      {
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "title": "Senior Software Developer"
+      },
+      {
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
     "company": "Think Brownstone",
     "url": "https://www.thinkbrownstone.com/careers/",
     "webSiteUrl": "https://www.thinkbrownstone.com/",
@@ -2693,13 +3835,25 @@
     },
     "positions": [
       {
+        "title": "Content Analyst"
+      },
+      {
+        "title": "Experience Designer - Contractor"
+      },
+      {
+        "title": "Senior Project Manager"
+      },
+      {
         "title": "UX & Visual Design Contractors"
       },
       {
-        "title": "Vice President of Client Engagement"
+        "title": "UX Designer"
       },
       {
-        "title": "Experience Designer- Contractor"
+        "title": "Web Developer"
+      },
+      {
+        "title": "Web Developer (Contract)"
       }
     ]
   },
@@ -2751,6 +3905,24 @@
     "positions": [
       {
         "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "company": "Tivipley",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/tivipley/jobs",
+    "webSiteUrl": "http://www.tivipley.com/",
+    "address": "2600 w. Legiht Ave., Philadelphia, PA 19100",
+    "geo": {
+      "latitude": 39.996284,
+      "longitude": -75.174103
+    },
+    "positions": [
+      {
+        "title": "Web Developer"
       }
     ]
   },
@@ -2811,6 +3983,68 @@
     "positions": []
   },
   {
+    "company": "University of Pennsylvania Human Resources Department",
+    "url": "https://www.hr.upenn.edu/career",
+    "webSiteUrl": "https://www.hr.upenn.edu/",
+    "address": "3624 Market Street, Suite 1SD, Philadelphia, PA 19104",
+    "geo": {
+      "latitude": 39.955912,
+      "longitude": -75.195443
+    },
+    "positions": []
+  },
+  {
+    "company": "URBN",
+    "url": "http://urbn.com/career/",
+    "webSiteUrl": "http://urbn.com/",
+    "address": "5000 South Broad St, Philadelphia, PA 19112-1495",
+    "geo": {
+      "latitude": 39.889369,
+      "longitude": -75.176112
+    },
+    "positions": [
+      {
+        "title": "Senior Network Engineer"
+      },
+      {
+        "title": "DevOps Engineer"
+      },
+      {
+        "title": "Production Support Manager - Ecommerce"
+      },
+      {
+        "title": "Microsoft Engineer"
+      },
+      {
+        "title": "Store Systems Operations Manager"
+      },
+      {
+        "title": "Project Manager - Reporting Systems"
+      },
+      {
+        "title": "IT CRM Business Analyst"
+      },
+      {
+        "title": "Project Manager"
+      },
+      {
+        "title": "Linux Administration Store Technology"
+      },
+      {
+        "title": "ETL Engineer"
+      },
+      {
+        "title": "OMS Business Analyst"
+      },
+      {
+        "title": "Project Manager"
+      },
+      {
+        "title": "Data Scientist"
+      }
+    ]
+  },
+  {
     "company": "Velora Studios",
     "url": "http://www.velorastudios.com/jobs",
     "webSiteUrl": "http://www.velorastudios.com/",
@@ -2828,6 +4062,50 @@
       },
       {
         "title": "Project Manager"
+      }
+    ]
+  },
+  {
+    "company": "Veris Associates, Inc., dba VerisVisalign",
+    "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+    "webSiteUrl": "http://www.verisvisalign.com/",
+    "address": "920 S. Broad Street, Lansdale, PA 19446",
+    "geo": {
+      "latitude": 40.229151,
+      "longitude": -75.296258
+    },
+    "positions": [
+      {
+        "title": "SHAREPOINT ARCHITECTS"
+      },
+      {
+        "title": "SHAREPOINT DEVELOPERS"
+      },
+      {
+        "title": "PROJECT MANAGER"
+      },
+      {
+        "title": "HELP DESK/SERVICE DESK ANALYST"
+      },
+      {
+        "title": "APPLICATION PACKAGER"
+      }
+    ]
+  },
+  {
+    "company": "VertMarkets",
+    "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
+    "webSiteUrl": "http://www.vertmarkets.com/",
+    "address": "101 Gibraltar Road, Suite 100, Horsham, PA 19044",
+    "geo": {
+      "latitude": 40.170056,
+      "longitude": -75.13106
+    },
+    "positions": [
+      {
+        "title": "Mid or Senior Full Stack Developer",
+        "datePosted": "2016-02-26",
+        "skills": "mongodb, elasticsearch, angularjs, javascript, asp.net-mvc"
       }
     ]
   },
@@ -2883,15 +4161,12 @@
     "company": "Wildbit",
     "url": "http://wildbit.com/jobs",
     "webSiteUrl": "http://wildbit.com/",
-    "address": "20 N 3rd St Philadelphia PA 19106",
+    "address": "22 N 3rd St, Philadelphia, PA 19106",
     "geo": {
-      "latitude": 39.9505591429,
-      "longitude": -75.1455902857
+      "latitude": 39.9508689,
+      "longitude": -75.1457279
     },
     "positions": [
-      {
-        "title": "Senior C# Developer"
-      },
       {
         "title": "Quality Assurance Engineer"
       }
@@ -2913,6 +4188,21 @@
     ]
   },
   {
+    "company": "Wilson Legal Solutions Inc",
+    "url": "http://www.wilsonlegalsol.com/careers.html",
+    "webSiteUrl": "http://www.wilsonlegalsol.com/",
+    "address": "3817 West Chester Pike, Newtown Square, PA 19073",
+    "geo": {
+      "latitude": 39.986286,
+      "longitude": -75.408623
+    },
+    "positions": [
+      {
+        "title": ".Net Developer"
+      }
+    ]
+  },
+  {
     "company": "Wingspan Technology",
     "url": "http://www.wingspan.com/career_open_positions/",
     "webSiteUrl": "http://www.wingspan.com/",
@@ -2930,6 +4220,24 @@
       },
       {
         "title": "DevOps Engineer"
+      }
+    ]
+  },
+  {
+    "company": "WizeHive",
+    "url": "https://review.wizehive.com/voting/posting",
+    "webSiteUrl": "http://wizehive.com/",
+    "address": "441 E. Hector Street, Conshohocken, PA 19428",
+    "geo": {
+      "latitude": 40.073628,
+      "longitude": -75.297755
+    },
+    "positions": [
+      {
+        "title": "Implementation Specialist"
+      },
+      {
+        "title": "Jr. Implementation Specialist"
       }
     ]
   },
@@ -2998,6 +4306,21 @@
       },
       {
         "title": "Director, Content and Brand Marketing"
+      }
+    ]
+  },
+  {
+    "company": "Zoomer",
+    "url": "https://jobs.lever.co/zoomer",
+    "webSiteUrl": "http://www.zoomerdelivery.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Backend Engineer"
       }
     ]
   },
