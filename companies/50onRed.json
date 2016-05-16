@@ -1,27 +1,37 @@
 {
   "company": "50onRed",
-  "url": "http://50onred.theresumator.com/?utm_source=github",
+  "type": [
+    "product"
+  ],
+  "url": "http://50onred.com/careers/",
   "webSiteUrl": "http://50onred.com/",
-  "address": "2929 Arch St, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.956848137931,
-    "longitude": -75.18091562069
+  "technologies": [
+    "Python",
+    "Java",
+    "AWS"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "2929 Arch St, Philadelphia, PA 19104",
+      "geo": {
+        "latitude": 39.956848137931,
+        "longitude": -75.18091562069
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Scientist"
-    },
-    {
-      "title": "Senior Software Engineer"
-    },
-    {
-      "title": "Media Buyer"
-    },
-    {
-      "title": "UX Designer"
-    },
-    {
-      "title": "Sales Executive"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://50onred.theresumator.com/apply/cFMeje/Senior-Software-Engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

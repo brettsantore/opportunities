@@ -28,8 +28,7 @@ if (fileName && dirName) {
       files.forEach(addCompany);
 
       function addCompany(fileName) {
-        var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
-        var company = JSON.parse(text);
+        var company = readCompany(dirName + "/" + fileName);
 
         companies.push(company);
       }
@@ -70,18 +69,25 @@ if (fileName && dirName) {
       files.forEach(checkCompany);
 
       function checkCompany(fileName) {
-        var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
-        var company = JSON.parse(text);
+        var company = readCompany(dirName + "/" + fileName);
 
         if ('geo' in company) {
           if (isPointInRegion(countyLimits, company.geo)) {
             insideCounty.push(company);
+          }
+        } else if ('locations' in company) {
+          for (var locationName in company.locations) {
+            var location = company.locations[locationName];
+            if (('geo' in location) && isPointInRegion(countyLimits, location.geo)) {
+              insideCounty.push(company);
+            }
           }
         }
       }
 
       if (insideCounty.length > 0) {
         var newFileName = county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + ".json";
+        newFileName = newFileName.replace(/\s+/g, '-');
         writeCompanyMerge(newFileName, insideCounty);
       }
       console.log(county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + "\t" + insideCounty.length);
@@ -112,6 +118,15 @@ if (fileName && dirName) {
     return c;
   }
 
+  function readCompany(fileName) {
+    var text = fs.readFileSync(fileName, "utf8");
+    var company = JSON.parse(text);
+    var locations = JSON.stringify(company.locations, null, 2);
+    locations = locations.replace(/"([\w]+)":/g,function($0,$1){return ('"'+$1.toLowerCase()+'":');});
+    company.locations = JSON.parse(locations);
+
+    return company;
+  }
 
   function writeCompanyMerge(fileName, companies) {
     var out = fs.createWriteStream(fileName, {
